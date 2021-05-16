@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">ПреступноеНамерение</string>
+    <string name="crime_title_hint">Введите заголовок для преступления.</string>
+    <string name="crime_title_label">Заголовок</string>
+    <string name="crime_details_label">Подробности</string>
+    <string name="crime_solved_label">Раскрыто</string>
+    <string name="new_crime">Новое Преступление</string>
+    <string name="crime_suspect_text">Выбрать Подозреваемого</string>
+    <string name="crime_report_text">Послать Отчет о Преступлении</string>
+    <string name="crime_report">%1$s!
+        Преступление было зафиксировано %2$s. %3$s, и %4$s
+    </string>
+    <string name="crime_report_solved">Дело раскрыто</string>
+    <string name="crime_report_unsolved">Дело не раскрыто</string>
+    <string name="crime_report_no_suspect">нет подозреваемого.</string>
+    <string name="crime_report_suspect">подозреваемый - %s</string>
+    <string name="crime_report_subject">ПреступноеНамерение: Отчет о Преступлении</string>
+    <string name="send_report">Отправить отчет о преступлении через</string>
+    <string name="crime_photo_button_description">Сделать фото места преступления</string>
+    <string name="crime_photo_no_image_description">Фото места преступления (не задано)</string>
+    <string name="crime_photo_image_description">Фото места преступления (задано)</string>
+</resources>
